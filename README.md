@@ -17,3 +17,6 @@ for feature extraction which will then classify the brain tumor to benign or mal
 Further sub-classification will take place such as Glioblastoma Multiforme(GBM) or
 glioma under malignant type and meningioma or pituitary adenoma under benign type
 tumor.
+
+The project is completely on MATLAB. 
+Please read the User Manual, Segmentation implementation and Classification implementation to get better idea about how to operate the application.
